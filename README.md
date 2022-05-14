@@ -9,7 +9,7 @@ Components of the Afa system:
 4. Ugiri seeds or in modern time acorn from white oak are used in the strings
 5. 
 
-#Indices and Values
+# Indices and Values
 
 Nkpulu Afa ovu = base 16
 0 1 2 3 4 5 6 7 8 9 A B C D E F
@@ -23,6 +23,6 @@ Nkpulu Afa ovu-abua = base 32
 0 1 2 3 4 5 6 7 8 9  A  B   C   D    E   F   G   H    I    J    K   L   M  N   O  P   Q   R    S   T   U   V  
 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
 
-#ML & AI 
+# ML & AI 
 The above is the process used by Di.bia or Babalawo (typically known as medicine man) to determine the condition of the seeker or patient.
 If this is how the chatbot of today are designed to work too. The question is. What is the difference but similarity? The chicken and the egg which came first? Science is not the difference, rather what makes them similar.  With artificial intelligence embedded (AI) bots really do very interesting things as we see it today. For example: targeted advertising, phone receptionists and online customer service.
