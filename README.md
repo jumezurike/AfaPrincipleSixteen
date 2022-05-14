@@ -1,13 +1,14 @@
 # AfaPrincipleSixteen
 "Computer science mimics Afa Oracle - THE PRINCIPLES OF SIXTEEN.
-# 2.The principle of 16 
+# 1.The principle of 16 
 ‘Ikpukpara’ is the principle of 16. Numerals here are measures of count and quantity which start from zero, one, two, four and progresses to the multiple of fours. There are 16 seeds in a continuous element held in the basis of the 16 principles. The basis is designed to index the values embedded in Afa seed lexicography. This is the numbers embedded in Igbo nka na uzu (science and technology). Accordingly, there are four market days: These makes one week: There are 13 months in Igbo land making all 364 days in a year. In Igbo culture three heads are better that one, not two heads are better than one. There is a deep understanding of the number theory as such the use of odd numbers.
 Components of the Afa system:
 1. 4 strings with four nodes attached to each string
 2. Turtle shell                 =                  casing for computer
 3. Afa wand
 4. Ugiri seeds or in modern time acorn from white oak are used in the strings
- 
+5. 
+# Sample Afa Cast
 
 # Indices and Values
 
