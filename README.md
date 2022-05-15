@@ -62,6 +62,6 @@ Not the first and the last stanza these are the segue to the deeper meaning of t
 Meaning does not always come out of the first cast: However, you can clearly see the direction when you examine the loop carefully. 
 
 The meaning of the casted string: 
-                                      " One will become progressive in the land: Wherein, the support of powerful ones will suffice. However the so called powerful men will also becme a stinging pain or obstacle."
+                                      " One will become progressive in the land: Wherein, the support of powerful men will suffice. However the so called powerful ones will also become the stinging pain or obstacle."
                                       
                                   
