@@ -65,5 +65,14 @@ The meaning of the casted string:
                                       " One will become progressive in the land: Wherein, the support of powerful men will suffice. However the so called powerful ones will also become the stinging pain or obstacle."
                                      
 The mechanism of the modern oracle have not seen any make over. This means certain practice will have to modify so that individuals will take their thoughts and essence of being to draw it following certain transcendental rules. The thought process (ATUMATU) of the consciousness master plan is of certain components: The vibrations of the mind. It follows in string theory this vibration determines the mass, force, and graviton of the matter. - This currently echoes in quantum mechanics as superposition which is practically the entanglement. 
+
+# RULES
+
+1. Closed and open circles or ovals must be used to identify the state: This could mechanical or in a digital form.
+2. Seekers must use the provisioned medium to create closed and open circles reflecting their thoughts or problem.
+3. When a string is all closed the whole set must be recasted: It does only follow a uniqueness unparalleled.
+4. In all three different sets of four string ensemble must be constructued by the seeker.
+5. This will be submitted to the oracle using the proper protocols.
                                       
-                                  
+  ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/AFA-closed.png "Interpreting the circles and numbers")
+                                
