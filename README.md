@@ -10,6 +10,8 @@ Components of the Afa system:
 5. 
 # Sample Afa Cast
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sample cast")
+
 # Indices and Values
 
 Nkpulu Afa ovu = base 16
