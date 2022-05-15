@@ -32,5 +32,7 @@ What you see is rascally encoded so that a lay man will never understand its dua
 - 0 1 2 3 4 5 6 7 8 9 10 11   12  13   14  15  16  17   18   19   20  21   22  23  24  25  26  27   28  29  30 31
 
 # ML & AI 
-The above is the process used by Di.bia or Babalawo (typically known as medicine man) to determine the condition of the seeker or patient.
+What you see below is the process used by Di.bia or Babalawo (typically known as medicine man) to determine the condition of the seeker or patient.
 If this is how the chatbot of today are designed to work too. The question is. What is the difference but similarity? The chicken and the egg which came first? Science is not the difference, rather what makes them similar.  With artificial intelligence embedded (AI) bots really do very interesting things as we see it today. For example: targeted advertising, phone receptionists and online customer service.
+
+![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/afaifa.png "AI Bot simulation")
