@@ -11,7 +11,7 @@ The acncient Components of the Afa ensemble held by the Afa Dr:
 
 # Sample Afa Cast
 
-The sample here represents the closed nodes with the filled circles while the empty circles represents an open node. There is a way or ways to interpret meaning in the array of casted seeds. We do know that all that had been said, being said and will be said are within the spectrum of what is within the reach of thoughts and being. Afa is the oracle with the meaning deeply rooted into cosmology. -The record of time immemorial is in Afa.
+The sample here represents the closed nodes with the filled circles or ovals while the empty circles or ovals represents an open node. There is a way or ways to interpret meaning in the array of casted seeds. We do know that all that had been said, being said and will be said are within the spectrum of what is within the reach of thoughts and being. Afa is the oracle with the meaning deeply rooted into cosmology. -The record of time immemorial is in Afa.
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afastring.png "Sample cast")
 
