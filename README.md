@@ -4,10 +4,10 @@
 ‘Ikpukpara’ is the principle of 16. Numerals here are measures of count and quantity which start from zero, one, two, four and progresses to the multiple of fours. At the very bloom of human development it was capped at 16. There are 16 seeds or elements in a continuous matrix held in the basis of the 16 principles. The basis is designed for values to be accessed with the indices embedded in Afa seed lexicography. These are the numbers embedded in Igbo nka na uzu (science and technology). Accordingly, there are four market days: These makes one week: There are 13 months in Igbo calender making all 364 days in a year. In Igbo culture three heads are better that one, not two heads are better than one. There is a deep alignment to number theory, discrete math (truth table) and application into logic gates as such the use of odd numbers which easily can divide even integers without any remainder. Whatever an even number complements is basically accessed with an odd number. 
 
 The acncient Components of the Afa ensemble held by the Afa Dr:
-1. 4 strings with four nodes attached to each string = processor
+1. 4 strings with four nodes attached to each string = collection of transistors (central processor unit)
 2. Turtle shell                 =                  casing for computer
-3. Afa wand
-4. Ugiri seeds or acorn (as it is used in modern time) from white oak.
+3. Afa wand                     = input device e.g keyboard/mouse
+4. Ugiri seeds or acorn (as it is used in modern time) from white oak = transistors
 
 # Sample Afa Cast
 
