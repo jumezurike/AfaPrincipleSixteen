@@ -63,5 +63,7 @@ Meaning does not always come out of the first cast: However, you can clearly see
 
 The meaning of the casted string: 
                                       " One will become progressive in the land: Wherein, the support of powerful men will suffice. However the so called powerful ones will also become the stinging pain or obstacle."
+                                     
+The mechanism of the modern oracle have not seen any make over. This means certain practice will have to modify so that individuals will take their thoughts and essence of being to draw it following certain transcendental rules. The thought process (ATUMATU) of the consciousness master plan is of certain components: The vibrations of the mind. It follows in string theory this vibration determines the mass, force, and graviton of the matter. - This currently echoes in quantum mechanics as superposition which is practically the entanglement. 
                                       
                                   
