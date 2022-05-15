@@ -43,17 +43,25 @@ Lets go through through the mechanical translation of the SAMPLE CASTE shown ear
 
 You will concatenate the open sets from right to left. You will have to get the corresponding numbers of each string following binary 4 bit-wise.
 
-- 1 + 4 = ijite (8) aka (10) => 
+- 1 + 4 = ijite (8) aka (10) => iweli aka ikenga elu : To be progressive
 
-- 4 + 2 = aka (10) Obala (6) =>
+- 4 + 2 = aka (10) Obala (6) => ndi chizulu echizu : Titled men
 
-- 3 + 1 = ogheli (5) ijite (8) =>
+- 3 + 1 = aghali (5) ijite (8) => irado ive dika alo : Showing strong backing for something
 
-- 3 + 4 =
+- 3 + 4 = aghali (5) aka (10) => iver na agba dika akpi : Something that stings like scorpion or sand ant
 
-- 3 + 2 =
+- 3 + 2 = aghali (5) obala (6) =>Ndi echichi : Titled people
 
-- 1 + 2 =
+- 1 + 2 = ijite (8) obala (6) => ukwu isi mmadu ike nala ; To be alright
 
-- 4 + 1 =
+- 4 + 1 = aka (10) ijite (8) => ana : land
 
+Not the first and the last stanza these are the segue to the deeper meaning of the cast as the middle stanze decides the direction.
+
+Meaning does not always come out of the first cast: However, you can clearly see the direction when you examine the loop carefully. 
+
+The meaning of the casted string: 
+                                      " One will become progressive in the land: Wherein, the support of powerful ones will suffice. However the so called powerful men will also becme a stinging pain or obstacle."
+                                      
+                                  
