@@ -37,7 +37,9 @@ If this is how the chatbot of today are designed to work too. The question is. W
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/afa-ifa.png "AI Bot simulation")
 
-Lets go through through the mechanical translation of the SAMPLE CASTE show earlier:
+# Clarity of purpose
+
+Lets go through through the mechanical translation of the SAMPLE CASTE shown earlier:
 
 You will concatenate the open sets from right to left. You will have to get the corresponding numbers of each string following binary 4 bit-wise.
 
