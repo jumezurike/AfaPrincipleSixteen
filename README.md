@@ -1,16 +1,19 @@
 # AfaPrincipleSixteen
 "Computer science mimics Afa Oracle - THE PRINCIPLES OF SIXTEEN.
 # The principle of 16 
-‘Ikpukpara’ is the principle of 16. Numerals here are measures of count and quantity which start from zero, one, two, four and progresses to the multiple of fours. There are 16 seeds in a continuous element held in the basis of the 16 principles. The basis is designed to index the values embedded in Afa seed lexicography. This is the numbers embedded in Igbo nka na uzu (science and technology). Accordingly, there are four market days: These makes one week: There are 13 months in Igbo land making all 364 days in a year. In Igbo culture three heads are better that one, not two heads are better than one. There is a deep understanding of the number theory as such the use of odd numbers.
-Components of the Afa system:
-1. 4 strings with four nodes attached to each string
+‘Ikpukpara’ is the principle of 16. Numerals here are measures of count and quantity which start from zero, one, two, four and progresses to the multiple of fours. At the very bloom of human development it was capped at 16. There are 16 seeds or elements in a continuous matrix held in the basis of the 16 principles. The basis is designed for values to be accessed with the indices embedded in Afa seed lexicography. These are the numbers embedded in Igbo nka na uzu (science and technology). Accordingly, there are four market days: These makes one week: There are 13 months in Igbo calender making all 364 days in a year. In Igbo culture three heads are better that one, not two heads are better than one. There is a deep alignment to number theory, discrete math (truth table) and application into logic gate as such the use of odd numbers which easily can divide even integers without any remainder.
+
+The acncient Components of the Afa ensemble held by the Afa Dr:
+1. 4 strings with four nodes attached to each string = processor
 2. Turtle shell                 =                  casing for computer
 3. Afa wand
-4. Ugiri seeds or in modern time acorn from white oak are used in the strings
+4. Ugiri seeds or acorn (as it is used in modern time) from white oak.
 
 # Sample Afa Cast
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afastring.png "Sample cast")
+
+What you see is rascally encoded so that a lay man will never understand its dual nature. It will remind you of the truth table or permutation of a chance in all possiblilities. This is where machine learning comes in as a harbinger of artificial intelligence (AI). The work already done serves as the lookup table handed down to us by our ancestors: They where the first to study this. We now have all we need for all the possibilities which has non-colloquial high level language that could be understood by those who speak the Afa language.- It is possible to begin the formulation into modern high level language that will enhance our predictions of the future thereby impacting humanity to a large extent. We can understand from the konwledge of arithematic we understand that every set casted has a negative dimension to it. That is the balance of odd and even; positive and negative; ying and yan in nature. 
 
 # Indices and Values
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afamatval.png "Sample cast")
