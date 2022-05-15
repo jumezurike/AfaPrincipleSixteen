@@ -7,13 +7,13 @@ Components of the Afa system:
 2. Turtle shell                 =                  casing for computer
 3. Afa wand
 4. Ugiri seeds or in modern time acorn from white oak are used in the strings
-5. 
+
 # Sample Afa Cast
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afastring.png "Sample cast")
 
 # Indices and Values
-
+![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afamatval.png "Sample cast")
 Nkpulu Afa ovu = base 16
 0 1 2 3 4 5 6 7 8 9 A B C D E F
 Nkpulu Afa abua = binary
