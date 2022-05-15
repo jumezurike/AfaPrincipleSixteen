@@ -1,7 +1,7 @@
 # AfaPrincipleSixteen
 "Computer science mimics Afa Oracle - THE PRINCIPLES OF SIXTEEN.
 # The principle of 16 
-‘Ikpukpara’ is the principle of 16. Numerals here are measures of count and quantity which start from zero, one, two, four and progresses to the multiple of fours. At the very bloom of human development it was capped at 16. There are 16 seeds or elements in a continuous matrix held in the basis of the 16 principles. The basis is designed for values to be accessed with the indices embedded in Afa seed lexicography. These are the numbers embedded in Igbo nka na uzu (science and technology). Accordingly, there are four market days: These makes one week: There are 13 months in Igbo calender making all 364 days in a year. In Igbo culture three heads are better that one, not two heads are better than one. There is a deep alignment to number theory, discrete math (truth table) and application into logic gate as such the use of odd numbers which easily can divide even integers without any remainder.
+‘Ikpukpara’ is the principle of 16. Numerals here are measures of count and quantity which start from zero, one, two, four and progresses to the multiple of fours. At the very bloom of human development it was capped at 16. There are 16 seeds or elements in a continuous matrix held in the basis of the 16 principles. The basis is designed for values to be accessed with the indices embedded in Afa seed lexicography. These are the numbers embedded in Igbo nka na uzu (science and technology). Accordingly, there are four market days: These makes one week: There are 13 months in Igbo calender making all 364 days in a year. In Igbo culture three heads are better that one, not two heads are better than one. There is a deep alignment to number theory, discrete math (truth table) and application into logic gates as such the use of odd numbers which easily can divide even integers without any remainder. Whatever an even number complements is basically accessed with an odd number. 
 
 The acncient Components of the Afa ensemble held by the Afa Dr:
 1. 4 strings with four nodes attached to each string = processor
@@ -11,7 +11,7 @@ The acncient Components of the Afa ensemble held by the Afa Dr:
 
 # Sample Afa Cast
 
-The sample here represents the closed nodes with the filled circles while the emptly circles represents an open node. There is a way or ways to interpret meaning in the array of casted seeds. We do know that all that had been said, being said and will be said are within the spectrum of what is within the reach of thoughts and being. Afa is the oracle with the meaning deeply rooted into cosmology. -The record of time immemorial is in Afa.
+The sample here represents the closed nodes with the filled circles while the empty circles represents an open node. There is a way or ways to interpret meaning in the array of casted seeds. We do know that all that had been said, being said and will be said are within the spectrum of what is within the reach of thoughts and being. Afa is the oracle with the meaning deeply rooted into cosmology. -The record of time immemorial is in Afa.
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afastring.png "Sample cast")
 
