@@ -36,3 +36,22 @@ What you see below is the process used by Di.bia or Babalawo (typically known as
 If this is how the chatbot of today are designed to work too. The question is. What is the difference but similarity? The chicken and the egg which came first? Science is not the difference, rather what makes them similar.  With artificial intelligence embedded (AI) bots really do very interesting things as we see it today. For example: targeted advertising, phone receptionists and online customer service.
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/afa-ifa.png "AI Bot simulation")
+
+Lets go through through the mechanical translation of the SAMPLE CASTE show earlier:
+
+You will concatenate the open sets from right to left. You will have to get the corresponding numbers of each string following binary 4 bit-wise.
+
+- 1 + 4 = ijite (8) aka (10) => 
+
+- 4 + 2 = aka (10) Obala (6) =>
+
+- 3 + 1 = ogheli (5) ijite (8) =>
+
+- 3 + 4 =
+
+- 3 + 2 =
+
+- 1 + 2 =
+
+- 4 + 1 =
+
