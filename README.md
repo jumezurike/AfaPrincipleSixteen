@@ -14,15 +14,15 @@ Components of the Afa system:
 
 # Indices and Values
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afamatval.png "Sample cast")
-..*Nkpulu Afa ovu = base 16
+..* Nkpulu Afa ovu = base 16
 0 1 2 3 4 5 6 7 8 9 A B C D E F
-..*Nkpulu Afa abua = binary
+..* Nkpulu Afa abua = binary
 0 1
-..*Nkpulu Afa iri  = base 10
+..* Nkpulu Afa iri  = base 10
 0 1 2 3 4 5 6 7 8 9
-..*Nkpulu Afa iriabua = base 20
+..* Nkpulu Afa iriabua = base 20
 0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J 
-..*Nkpulu Afa ovu-abua = base 32
+..* Nkpulu Afa ovu-abua = base 32
 0 1 2 3 4 5 6 7 8 9  A  B   C   D    E   F   G   H    I    J    K   L    M   N   O  P   Q   R    S   T   U   V  
 0 1 2 3 4 5 6 7 8 9 10 11   12 13   14   15 16   17  18   19   20   21  22  23  24  25 26  27   28  29   30 31
 
