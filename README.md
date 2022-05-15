@@ -11,6 +11,8 @@ The acncient Components of the Afa ensemble held by the Afa Dr:
 
 # Sample Afa Cast
 
+The sample here represents the closed nodes with the filled circles while the emptly circles represents an open node. There is a way or ways to interpret meaning in the array of casted seeds. We do know that all that had been said, being said and will be said are within the spectrum of what is within the reach of thoughts and being. Afa is the oracle with the meaning deeply rooted into cosmology. -The record of time immemorial is in Afa.
+
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afastring.png "Sample cast")
 
 What you see is rascally encoded so that a lay man will never understand its dual nature. It will remind you of the truth table or permutation of a chance in all possiblilities. This is where machine learning comes in as a harbinger of artificial intelligence (AI). The work already done serves as the lookup table handed down to us by our ancestors: They where the first to study this. We now have all we need for all the possibilities which has non-colloquial high level language that could be understood by those who speak the Afa language.- It is possible to begin the formulation into modern high level language that will enhance our predictions of the future thereby impacting humanity to a large extent. We can understand from the konwledge of arithematic we understand that every set casted has a negative dimension to it. That is the balance of odd and even; positive and negative; ying and yan in nature. 
