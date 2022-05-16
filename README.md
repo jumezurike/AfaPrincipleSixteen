@@ -5,7 +5,7 @@
 
 The acncient Components of the Afa ensemble held by the Afa Dr:
 1. 4 strings with four nodes attached to each string = collection of transistors (central processor unit)
-2. Turtle shell                 =                  casing for computer
+2. Turtle shell                 =                 tower casing for desktops
 3. Afa wand                     = input device e.g keyboard/mouse
 4. Ugiri seeds or acorn (as it is used in modern time) from white oak = transistors
 
@@ -15,7 +15,12 @@ The sample here represents the closed nodes with the filled circles or ovals whi
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afastring.png "Sample cast")
 
-What you see is rascally encoded so that a lay man will never understand its dual nature. It will remind you of the truth table or permutation of a chance in all possiblilities. This is where machine learning comes in as a harbinger of artificial intelligence (AI). The work already done serves as the lookup table handed down to us by our ancestors: They where the first to study this. We now have all we need for all the possibilities which has non-colloquial high level language that could be understood by those who speak the Afa language.- It is possible to begin the formulation into modern high level language that will enhance our predictions of the future thereby impacting humanity to a large extent. We can understand from the konwledge of arithematic we understand that every set casted has a negative dimension to it. That is the balance of odd and even; positive and negative; ying and yan in nature. 
+What you see is rascally encoded so that a lay man will never understand its dual nature. It will remind you of the truth table or permutation and combination of a chance in all possiblilities. This is where machine learning comes in as a harbinger of artificial intelligence (AI). The work already done serves as the lookup table handed down to us by our ancestors: They where the first to study this. We now have all we need for all the possibilities which has non-colloquial high level language that could be understood by those who speak the Afa language.- It is possible to begin the formulation into modern high level languages that will enhance our predictions of the future thereby impacting humanity to a large extent. We can understand from the konwledge of arithematic. We know that every set casted has a negative dimension to it. That is the balance of odd and even; positive and negative; ying and yan in nature. 
+
+### Take for example 4 bit-wise representation of the combianation from the outcome:
+
+12 -->> 1100 is eqaully -4 in binary
+11 -->> 1011 is also -5 in binary
 
 # Indices and Values
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afamatval.png "Sample cast")
