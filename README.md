@@ -17,7 +17,7 @@ The sample here represents the closed nodes with the filled circles or ovals whi
 
 What you see is rascally encoded so that a lay man will never understand its dual nature. It will remind you of the truth table or permutation and combination of a chance in all possiblilities. This is where machine learning comes in as a harbinger of artificial intelligence (AI). The work already done serves as the lookup table handed down to us by our ancestors: They where the first to study this. We now have all we need for all the possibilities which has non-colloquial high level language that could be understood by those who speak the Afa language.- It is possible to begin the formulation into modern high level languages that will enhance our predictions of the future thereby impacting humanity to a large extent. We can understand from the konwledge of arithematic. We know that every set casted has a negative dimension to it. That is the balance of odd and even; positive and negative; ying and yan in nature. 
 
-### Take for example 4 bit-wise representation of the combianation from the outcome:
+### Take for example 4 bit-wise representation of the combination from the outcome:
 
 12 -->> 1100 is eqaully -4 in binary
 11 -->> 1011 is also -5 in binary
