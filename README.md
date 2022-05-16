@@ -76,3 +76,4 @@ The mechanism of the modern oracle have not seen any make over. This means certa
                                       
   ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/AFA-closed.png "Interpreting the circles and numbers")
                                 
+Oracle is simply a blackbox in the level of turing machine which will follow stringent insturctions and input to finally present a conclusive output. The oracle will always arrive at a decision or conclusion. We are certain that human lives could be enhanced by these decsion owed to the will of those who will created the access to the spectrum uncertainties. We are working on getting clearer and clearer to our predictions. 
