@@ -41,7 +41,9 @@ What you see below is the process used by a Di.bia or Babalawo (typically known 
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/afa-ifa.png "AI Bot simulation")
 
-Mysticism here is only in the lack of understanding by the lay man. This man does not understanD the dynamics in nature because of the stillness in his mind. The changes which permeates all does not phase him therefore affects his being. He will run when it is time to walkd. Then walk when it is time to run. One who understands the changes in all things around, is know as the "Omara" not the "Ofeke" or "OSE AKA" (14, 10) in accordance to Afa language interpretation. There is boolean functionality in everything that must become. -To be or not to be.==>>1 or 0.
+Mysticism here is only in the lack of understanding by the lay man. This man does not understanD the dynamics in nature because of the stillness in his mind. The changes which permeates all does not phase him therefore affects his being. He will run when it is time to walkd. Then walk when it is time to run. One who understands the changes in all things around, is know as the "Omara" not the "Ofeke" or "OSE AKA" (14, 10) in accordance to Afa language interpretation. There is boolean functionality in everything that must become. -To be or not to be.==>>1 or 0. There is something quite interesting between the (1 and 0) and another that falls way outside 1 | 0, 1&0.
+
+This we denote by !(1|0, 1&0). We can not have 1, 0, 1&0 and !(1|0, 1&0).
 
 # Clarity of purpose
 
