@@ -84,4 +84,8 @@ The mechanism of the modern oracle have not seen any make over. This means certa
                                       
   ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/AFA-closed.png "Interpreting the circles and numbers")
                                 
-Oracle is simply a blackbox in the level of turing machine which will follow stringent instructions and input to finally present a conclusive output. The oracle will always arrive at a decision or conclusion. "I Ching": Is another divination system that could use this approach of number theory. We are certain that human lives could be enhanced by the decision owed to the wheels of the oracle. The uncertainties in the spectral lines of our existence could be reduced via predictive and resilient software. We are working on getting clearer and precise to our predictions. 
+Oracle is simply a blackbox in the level of turing machine which will follow stringent instructions and input to finally present a conclusive output. The oracle will always arrive at a decision or conclusion. "I Ching": Is another divination system that could use this approach of number theory. We are certain that human lives could be enhanced by the decision owed to the wheels of the oracle. The uncertainties in the spectral lines of our existence could be reduced via predictive and resilient software. We are working on getting clearer and precise to excellent predictions. 
+
+" Afa is an ancient African divination tool, cosmological treatise, and codification framework, that is thousands of years old, pre-dating all known computer science.
+
+Within Afa, we find the principles of binary expression (0 to 1), hexadecimal expression (0 to 15), base 20 & base 32 radices, matrix theory (4 by 4 grid), and wave theory (16 nodes with infinite interpretive permutations). "
