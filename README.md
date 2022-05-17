@@ -3,7 +3,7 @@
 # The principle of 16 
 ‘Ikpukpara’ is the principle of 16. Numerals here are measures of count and quantity which start from zero, one, two, four and progresses to the multiple of fours. At the very bloom of human development it was capped at 16. There are 16 seeds or elements in a continuous matrix held in the basis of the 16 principles. The basis is designed for values to be accessed with the indices embedded in Afa seed lexicography. These are the numbers embedded in Igbo nka na uzu (science and technology). Accordingly, there are four market days: These makes one week: There are 13 months in Igbo calender making all 364 days in a year. In Igbo culture three heads are better that one, not two heads are better than one. There is a deep alignment to number theory, discrete math (truth table) and application into logic gates as such the use of odd numbers which easily can divide even integers without any remainder. Whatever an even number complements is basically accessed with an odd number. 
 
-The acncient Components of the Afa ensemble held by the Afa Dr:
+The ancient components of the Afa ensemble held by the Di.bia Afa or doctor of Afa:
 1. 4 strings with four nodes attached to each string = collection of transistors (central processor unit)
 2. Turtle shell                 =                 tower casing for desktops
 3. Afa wand                     = input device e.g keyboard/mouse
@@ -15,7 +15,7 @@ The sample here represents the closed nodes with the filled circles or ovals whi
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afastring.png "Sample cast")
 
-What you see is rascally encoded so that a lay man will never understand its dual nature. It will remind you of the truth table or permutation and combination of a chance in all possiblilities. This is where machine learning comes in as a harbinger of artificial intelligence (AI). The work already done serves as the lookup table handed down to us by our ancestors: They where the first to study this. We now have all we need for all the possibilities which has non-colloquial high level language that could be understood by those who speak the Afa language.- It is possible to begin the formulation into modern high level languages that will enhance our predictions of the future thereby impacting humanity to a large extent. We can understand from the konwledge of arithematic. We know that every set casted has a negative dimension to it. That is the balance of odd and even; positive and negative; ying and yan in nature. 
+What you see is rascally encoded so that a lay man will never understand its dual nature. It will remind you of the truth table or permutation and combination of a chance in all possibilities. This is where machine learning comes in as a harbinger of artificial intelligence (AI). The work already done serves as the lookup table handed down to us by our ancestors: They where the first to study this. We now have all we need for all the possibilities which has non-colloquial high level language that could be understood by those who understand and speak the Afa language.- It is possible to begin the formulation into modern high level languages that will enhance our predictions of the future thereby impacting humanity to a large extent. We can understand from the konwledge of arithematic. We know that every set casted has a negative dimension to it. That is the balance of odd and even; positive and negative; yin and yang in nature. 
 
 ### Take for example 4 bit-wise representation of the combination from the outcome:
 
@@ -37,14 +37,13 @@ What you see is rascally encoded so that a lay man will never understand its dua
 - 0 1 2 3 4 5 6 7 8 9 10 11   12  13   14  15  16  17   18   19   20  21   22  23  24  25  26  27   28  29  30 31
 
 # ML & AI 
-What you see below is the process used by Di.bia or Babalawo (typically known as medicine man) to determine the condition of the seeker or patient.
-If this is how the chatbot of today are designed to work too. The question is. What is the difference but similarity? The chicken and the egg which came first? Science is not the difference, rather what makes them similar.  With artificial intelligence embedded (AI) bots really do very interesting things as we see it today. For example: targeted advertising, phone receptionists and online customer service.
+What you see below is the process used by a Di.bia or Babalawo (typically known as medicine man) with a knowledge of divination to determine the condition of the seeker or patient. If this is how the chatbot of today are designed to work too. The question is. What is the difference there, if not similarity? The chicken and the egg which came first? Science is not the difference in things, rather what makes these things similar. With artificial intelligence embedded (AI) bots really do very interesting things as we see it today. For example: targeted advertising, phone receptionists and online customer service.
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/afa-ifa.png "AI Bot simulation")
 
 # Clarity of purpose
 
-Lets go through through the mechanical translation of the SAMPLE CASTE shown earlier:
+Let's go through the mechanical translation of the SAMPLE CAST shown earlier:
 
 You will concatenate the open sets from right to left. You will have to get the corresponding numbers of each string following binary 4 bit-wise.
 
@@ -62,23 +61,23 @@ You will concatenate the open sets from right to left. You will have to get the 
 
 - 4 + 1 = aka (10) ijite (8) => ana : land
 
-Not the first and the last stanza these are the segue to the deeper meaning of the cast as the middle stanze decides the direction.
+Not the first and the last stanza these are the segue to the deeper meaning of the cast as the middle stanza decides the direction.
 
-Meaning does not always come out of the first cast: However, you can clearly see the direction when you examine the loop carefully. 
+The meaning does not always come out of the first cast: However, you can clearly see the direction when you examine the loop carefully. 
 
 The meaning of the casted string: 
                                       " One will become progressive in the land: Wherein, the support of powerful men will suffice. However the so called powerful ones will also become the stinging pain or obstacle."
                                      
-The mechanism of the modern oracle have not seen any make over. This means certain practice will have to modify so that individuals will take their thoughts and essence of being to draw it following certain transcendental rules. The thought process (ATUMATU) of the consciousness master plan is of certain components: The vibrations of the mind. It follows in string theory this vibration determines the mass, force, and graviton of the matter. - This currently echoes in quantum mechanics as superposition which is practically the entanglement. 
+The mechanism of the modern oracle have not seen any make over. This means certain practices will have to modify so that individuals will take their thoughts and essence of being to draw it following certain transcendental rules. The thought process (ATUMATU) of the consciousness master plan is of certain components: The vibrations of the mind. It follows in string theory this vibration determines the mass, force, and graviton of the matter. - This currently echoes in quantum mechanics as superposition which is practically the entanglement. 
 
 # RULES
 
 1. Closed and open circles or ovals must be used to identify the state: This could mechanical or in a digital form.
 2. Seekers must use the provisioned medium to create closed and open circles reflecting their thoughts or problem.
-3. When a string is all closed the whole set must be recasted: It does only follow a uniqueness unparalleled.
-4. In all three different sets of four string ensemble must be constructued by the seeker.
-5. This will be submitted to the oracle using the proper protocols.
+3. When a string is all closed the whole set must be recasted: It only follows a theory where emptiness is only mental.
+4. All three different sets of four-string ensemble must be constructued by the seeker to address the predictive accuracy.
+5. This will be submitted to the oracle using the proper, unique and unparalleled protocols.
                                       
   ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/AFA-closed.png "Interpreting the circles and numbers")
                                 
-Oracle is simply a blackbox in the level of turing machine which will follow stringent insturctions and input to finally present a conclusive output. The oracle will always arrive at a decision or conclusion. We are certain that human lives could be enhanced by these decsion owed to the will of those who will created the access to the spectrum uncertainties. We are working on getting clearer and clearer to our predictions. 
+Oracle is simply a blackbox in the level of turing machine which will follow stringent insturctions and input to finally present a conclusive output. The oracle will always arrive at a decision or conclusion. "I Ching": Is another divination system that could use this approach of number theory. We are certain that human lives could be enhanced by the decision owed to the wheels of the oracle. The uncertainties in the spectral lines of our existence could be reduced via predictive and resilient software. We are working on getting clearer and precise to our predictions. 
