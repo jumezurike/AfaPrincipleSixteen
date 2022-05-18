@@ -1,5 +1,5 @@
 # Oracle: The Principle of Sixteen:
-<img src="https://github.com/jumezurike/backend-master-lokdonSKI/blob/master/Afa-logot.png" width="100%" height=50% align=center>
+<img src="https://github.com/jumezurike/AfaprincipleSixteen/blob/main/Afa-logot.png" width="100%" height=50% align=center>
 
 "Computer science mimics Afa Oracle - THE PRINCIPLES OF SIXTEEN.
 # The principle of 16 
