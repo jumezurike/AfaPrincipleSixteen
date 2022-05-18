@@ -78,6 +78,7 @@ The mechanism of the modern oracle have not seen any make over. This means certa
 
 # Framework
 
+ 
  ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/AFA-lexicon.png "Framework")
 
 # RULES
