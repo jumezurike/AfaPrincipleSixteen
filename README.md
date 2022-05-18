@@ -17,7 +17,7 @@ The sample here represents the closed nodes with the filled circles or ovals whi
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afastring.png "Sample casted string")
 
-What you see is rascally encoded so that a lay man will never understand its dual nature. It will remind you of the truth table or permutation and combination of a chance in all possibilities. This is where machine learning comes in as a harbinger of artificial intelligence (AI). The work already done serves as the lookup table handed down to us by our ancestors: They where the first to study this. We now have all we need for all the possibilities which has non-colloquial high level language that could be understood by those who understand and speak the Afa language.- It is possible to begin the formulation into modern high level languages that will enhance our predictions of the future thereby impacting humanity to a large extent. We can understand from the konwledge of arithematic. We know that every set casted has a negative dimension to it. That is the balance of odd and even; positive and negative; yin and yang in nature. 
+What you see is rascally encoded so that a lay man will never understand its dual nature. It will remind you of the truth table or permutation and combination of a chance in all possibilities. This is where machine learning comes in as a harbinger of artificial intelligence (AI). The work already done serves as the lookup table handed down to us by our ancestors: They where the first to study this. We now have all we need for all the possibilities which has non-colloquial high level language understood by those who practise the Afa language.- It is possible to begin the formulation into modern high level languages to enhance our predictions of the future thereby impacting humanity to a large extent. We can understand from the konwledge of arithematic. We know that every set casted has a negative dimension to it. That is the balance of odd and even; positive and negative; yin and yang in nature. 
 
 ### Take for example 4 bit-wise representation of the combination from the outcome:
 
@@ -43,7 +43,7 @@ What you see below is the process used by a Di.bia or Babalawo (typically known 
 
 ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/afa-ifa.png "AI Bot simulation")
 
-Mysticism here is only in the lack of understanding by the lay man. This man does not understanD the dynamics in nature because of the stillness in his mind. The changes which permeates all does not phase him therefore affects his being. He will run when it is time to walkd. Then walk when it is time to run. One who understands the changes in all things around, is know as the "Omara" not the "Ofeke" or "OSE AKA" (14, 10) in accordance to Afa language interpretation. There is boolean functionality in everything that must become. -To be or not to be.==>>1 or 0. There is something quite interesting between the (1 and 0) and another that falls way outside 1 | 0, 1&0.
+Mysticism here is only in the lack of understanding by the lay man. This man does not understanD the dynamics in nature because of the stillness in his mind. The changes which permeates all does not phase him therefore weakens his mind's eye with volatility. He will run when it is time to walk. Then walk when it is time to run. One who understands the changes in all things around, is known as the "Omara" not the "Ofeke" or "OSE AKA" (14, 10) in accordance to Afa language interpretation. There is boolean functionality in everything that must become. -To be or not to be.==>>1 or 0. There is something quite interesting between the (1 and 0) and another that falls way outside 1 | 0, 1&0.
 
 This we denote by !(1|0, 1&0). We can not have 1, 0, 1&0 and !(1|0, 1&0).
 
@@ -67,14 +67,14 @@ You will concatenate the open sets from right to left. You will have to get the 
 
 - 4 + 1 = aka (10) ijite (8) => ana : land
 
-Not the first and the last stanza these are the segue to the deeper meaning of the cast as the middle stanza decides the direction.
+Note the first and the last stanza these are the segue to the deeper meaning of the cast as the middle stanza decides the direction.
 
 The meaning does not always come out of the first cast: However, you can clearly see the direction when you examine the loop carefully. 
 
 The meaning of the casted string: 
                                       " One will become progressive in the land: Wherein, the support of powerful men will suffice. However the so called powerful ones will also become the stinging pain or obstacle."
                                      
-The mechanism of the modern oracle have not seen any make over. This means certain practices will have to modify so that individuals will take their thoughts and essence of being to draw it following certain transcendental rules. The thought process (ATUMATU) of the consciousness master plan is of certain components: The vibrations of the mind. It follows in string theory this vibration determines the mass, force, and graviton of the matter. - This currently echoes in quantum mechanics as superposition which is practically the entanglement. 
+The mechanism of the ancient oracle have not seen any make over as to the direct connection to modern science. This means certain practices will have to modify so that individuals will take their thoughts and essence of being to draw it following certain transcendental rules. The thought process (ATUMATU) of the consciousness master plan is of certain components: The vibrations of the mind. It follows in string theory this vibration determines the mass, force, and graviton of the matter. - This currently echoes in quantum mechanics as superposition which is practically the entanglement. 
 
 # Framework
 
