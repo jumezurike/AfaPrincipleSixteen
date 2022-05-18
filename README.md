@@ -15,7 +15,7 @@ The ancient components of the Afa ensemble held by the Di.bia Afa or doctor of A
 
 The sample here represents the closed nodes with the filled circles or ovals while the empty circles or ovals represents an open node. There is a way or ways to interpret meaning in the array of casted seeds. We do know that all that had been said, being said and will be said are within the spectrum of what is within the reach of thoughts and being. Afa is the oracle with the meaning deeply rooted into cosmology. -The record of time immemorial is in Afa.
 
-![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afastring.png "Sample cast")
+![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afastring.png "Sample casted string")
 
 What you see is rascally encoded so that a lay man will never understand its dual nature. It will remind you of the truth table or permutation and combination of a chance in all possibilities. This is where machine learning comes in as a harbinger of artificial intelligence (AI). The work already done serves as the lookup table handed down to us by our ancestors: They where the first to study this. We now have all we need for all the possibilities which has non-colloquial high level language that could be understood by those who understand and speak the Afa language.- It is possible to begin the formulation into modern high level languages that will enhance our predictions of the future thereby impacting humanity to a large extent. We can understand from the konwledge of arithematic. We know that every set casted has a negative dimension to it. That is the balance of odd and even; positive and negative; yin and yang in nature. 
 
@@ -25,7 +25,7 @@ What you see is rascally encoded so that a lay man will never understand its dua
 11 -->> 1011 is also -5 in binary
 
 # Indices and Values
-![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afamatval.png "Sample cast")
+![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afamatval.png "Indices and value mapping")
 1. ..* Nkpulu Afa ovu = base 16
 - 0 1 2 3 4 5 6 7 8 9 A B C D E F
 2. ..* Nkpulu Afa abua = binary
@@ -79,7 +79,7 @@ The mechanism of the modern oracle have not seen any make over. This means certa
 # Framework
 
  
- ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/AFA-lexicon.png "Framework")
+ ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/Afa-lexicon.png "Framework")
 
 # RULES
 
