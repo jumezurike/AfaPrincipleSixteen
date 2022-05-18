@@ -76,6 +76,10 @@ The meaning of the casted string:
                                      
 The mechanism of the modern oracle have not seen any make over. This means certain practices will have to modify so that individuals will take their thoughts and essence of being to draw it following certain transcendental rules. The thought process (ATUMATU) of the consciousness master plan is of certain components: The vibrations of the mind. It follows in string theory this vibration determines the mass, force, and graviton of the matter. - This currently echoes in quantum mechanics as superposition which is practically the entanglement. 
 
+#Framework
+
+
+
 # RULES
 
 1. Closed and open circles or ovals must be used to identify the state: This could mechanical or in a digital form.
