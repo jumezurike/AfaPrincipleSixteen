@@ -4,18 +4,18 @@
 Afa Oracle: Introduction to the Principle of Sixteen (Ikpukpara)
 Important points you should make sure you don't miss out on from this post on your quest to unravel the enigma of the principle of sixteen.
 
-##Who is an AFA Oracle?
+## Who is an AFA Oracle?
 An AFA oracle is one who is initiated (a human representation) in the system of AFA which respects the duality of nature. This one has acquired certain skills by understanding the language of AFA and noting easily, its various combinations as a way to predict accurately. The high level language is not for the novice to understand. 
 
-##What is the AFA Oracle?
+## What is the AFA Oracle?
 The Oracle is a problem solver when it comes to decision making. It is a blackbox like turing machine that can process many instructions and give a single output as the decision or conclusion. 
 
 This could be mathematically or visually expanded into perfect squares: The initiate will announce the output or  the result compiled by the oracle itself. This requires certain skills to understanding the language of AFA: Noting its various combinations with ease to predict things the eyes cannot easily see as a way of resolving human problems.
 
-##History of the principle of sixteen? 
+## History of the principle of sixteen? 
 This history cannot be easily placed in space time. The practice was used from time immemorial especially in the very bloom of human development to answer the question of sickness, to compile herbs for medicinal purposes, to recall genealogy.
 
-##What are the Fundamentals of the Principle of sixteen?
+## What are the Fundamentals of the Principle of sixteen?
 
 The fundamentals are the 16 different seeds(with bool open or close; truth or false) borne within a 4 by 4 matrix. This brings about a truth table of over 256 for each string of 4 nodes. This means as the cast layer is increase so will the performance and accuracy in predictions.
 
@@ -30,14 +30,14 @@ It is all three and every other thing in between it is the way of deep understan
 
 Divinity, philosophy, theology, science are found under ones culture.
 
-##What is the purpose of the principle of sixteen, and why is it a sacred practice?
+## What is the purpose of the principle of sixteen, and why is it a sacred practice?
 
 Its purpose is to bring balance in human existence. It fills the gap between problems humans can solve and those they might never solve in life times. 
 
 ##How does the principle of sixteen fit into computer science and technology?
 Mathematics is in the core of science and technology as well as Afa principles. The basis of AFA in the most rudimentary way forms a number system. The 0x(HEX) and 00 (BIN) are used in computers for communicating machine language as the computer interacts with humans. AFA strives for balance out of non-deterministic, deterministic, chaotic and somewhat ordred plane. The principles accuracy and performance promises easier ways for searching, combining and permuting words to predicting things in way that we have never seen before.
 
-#What is the relationship between the principle of Sixteen and machine learning and artificial intelligence? 
+## What is the relationship between the principle of Sixteen and machine learning and artificial intelligence? 
 
 The principle of sixteen clearly establishes that all that you speak of, all you will speak of and all you have spoken of are embedded in the spectrum of all in existence..
 
@@ -45,7 +45,7 @@ Machines mimic human intelligence to perform specific tasks. - Artificial intell
 
 The AFA seeds are initially trained without codes to perform tasks that will take humans a very long time to establish: This is simply machine learning. 
 
-ML machines automatically learn from data or information without further coding. 
+ML automatically learn from data or information without further coding. 
 From the accuracy and performance you can now predict to take action
 One data set could be used to train many other machines. 
 
@@ -53,7 +53,7 @@ AFA principle of sixteen provides the neural network that connects all other poi
        
 When you look at the mNIST list you can see the modern ML able to accurately identify the input from the list. AFA is to words what modern ML is to mNIST today. AFA system does more than just identifying hand-written characters
 
-Can we modularize this system so that divination systems from other parts of the globe would be codified?
+## Can we modularize this system so that divination systems from other parts of the globe would be codified?
 
 Yes we can especially when we view the whole process before prediction as another ML which constitutes training complexes over the years to address human problems. They are trained by humans first and and later by machines or other senses unbeknownst to man. Automatic training is involved here. In simple terms other methods could be engaged as a subset of artificial  intelligence. - I would rather say that AI is the application of ML. 
  
