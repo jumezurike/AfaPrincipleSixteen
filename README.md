@@ -34,7 +34,7 @@ Divinity, philosophy, theology, science are found under ones culture.
 
 Its purpose is to bring balance in human existence. It fills the gap between problems humans can solve and those they might never solve in life times. 
 
-##How does the principle of sixteen fit into computer science and technology?
+## How does the principle of sixteen fit into computer science and technology?
 Mathematics is in the core of science and technology as well as Afa principles. The basis of AFA in the most rudimentary way forms a number system. The 0x(HEX) and 00 (BIN) are used in computers for communicating machine language as the computer interacts with humans. AFA strives for balance out of non-deterministic, deterministic, chaotic and somewhat ordred plane. The principles accuracy and performance promises easier ways for searching, combining and permuting words to predicting things in way that we have never seen before.
 
 ## What is the relationship between the principle of Sixteen and machine learning and artificial intelligence? 
@@ -55,12 +55,12 @@ When you look at the mNIST list you can see the modern ML able to accurately ide
 
 ## Can we modularize this system so that divination systems from other parts of the globe would be codified?
 
-Yes we can especially when we view the whole process before prediction as another ML which constitutes training complexes over the years to address human problems. They are trained by humans first and and later by machines or other senses unbeknownst to man. Automatic training is involved here. In simple terms other methods could be engaged as a subset of artificial  intelligence. - I would rather say that AI is the application of ML. 
- 
+Yes we can! Especially when we view the whole process before prediction as another ML which constitutes training complexes over the years to address human problems. They are trained by humans first, later by machines or other senses unbeknownst to man. Automatic training is involved here as in anything ML. In simple terms other methods could be engaged as a subset of artificial  intelligence. - I would rather say that AI is the application of ML. 
 
-I Ching
-Wax pouring in cold water
-Afa/Ifa
+##Ths list so far:
+1. I Ching
+2. Wax pouring in cold water
+3. Afa/Ifa
 
 
 "Computer science mimics Afa Oracle - THE PRINCIPLES OF SIXTEEN.
