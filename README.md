@@ -10,7 +10,7 @@ An AFA oracle is one who is initiated (a human representation) in the system of 
 ## What is the AFA Oracle?
 The Oracle is a problem solver when it comes to decision making. It is a blackbox like turing machine that can process many instructions and give a single output as the decision or conclusion. 
 
-This could be mathematically or visually expanded into perfect squares: The initiate will announce the output or  the result compiled by the oracle itself. This requires certain skills to understanding the language of AFA: Noting its various combinations with ease to predict things the eyes cannot easily see as a way of resolving human problems.
+This could be mathematically or visually expanded into perfect squares: The initiate will announce the output or  the result compiled by the oracle itself. This requires more than certain skills to understanding the language of AFA: Noting its various combinations with ease to predict things so subtle that the senses cannot perceive as a way of easily resolving human problems.
 
 ## History of the principle of sixteen? 
 This history cannot be easily placed in space time. The practice was used from time immemorial especially in the very bloom of human development to answer the question of sickness, to compile herbs for medicinal purposes, to recall genealogy.
@@ -20,7 +20,7 @@ This history cannot be easily placed in space time. The practice was used from t
 The fundamentals are the 16 different seeds(with bool open or close; truth or false) borne within a 4 by 4 matrix. This brings about a truth table of over 256 for each string of 4 nodes. This means as the cast layer is increase so will the performance and accuracy in predictions.
 
 Is Ikpukpara a science, divinity, or culture?
-It is all three and every other thing in between it is the way of deep understanding of the world we live in. AFA oracle the machines or blackbox is what supercomputers or  quantum computers represent to the modern world. Today, we rely on computers for anything we want to analyse for insight. 
+It is all the three mentioned and every other thing in between. It is the way leading to the depth of understanding the world we live in. In ancient times AFA oracle, the machine or blackbox is what supercomputers or  quantum computers represent to the modern world. Today, we rely on computers for anything we want to analyse for insight. 
 
 - SCIENCE
 
@@ -28,11 +28,11 @@ It is all three and every other thing in between it is the way of deep understan
 
 - CULTURE
 
-Divinity, philosophy, theology, science are found under ones culture.
+Divinity (religion), philosophy, theology, science are found under ones culture. When a culture is deified it becomes a religion.
 
 ## What is the purpose of the principle of sixteen, and why is it a sacred practice?
 
-Its purpose is to bring balance in human existence. It fills the gap between problems humans can solve and those they might never solve in life times. 
+Its purpose is to bring balance in human existence. It fills the gap between problems humans can solve and those they might never solve in one life time or life times. 
 
 ## How does the principle of sixteen fit into computer science and technology?
 Mathematics is in the core of science and technology as well as Afa principles. The basis of AFA in the most rudimentary way forms a number system. The 0x(HEX) and 00 (BIN) are used in computers for communicating machine language as the computer interacts with humans. AFA strives for balance out of non-deterministic, deterministic, chaotic and somewhat ordred plane. The principles accuracy and performance promises easier ways for searching, combining and permuting words to predicting things in way that we have never seen before.
@@ -45,19 +45,17 @@ Machines mimic human intelligence to perform specific tasks. - Artificial intell
 
 The AFA seeds are initially trained without codes to perform tasks that will take humans a very long time to establish: This is simply machine learning. 
 
-ML automatically learn from data or information without further coding. 
-From the accuracy and performance you can now predict to take action
-One data set could be used to train many other machines. 
+Machines automatically learn from data or information without further coding. From the accuracy and performance you can now predict to take action. One data set could be used to train many other machines. 
 
-AFA principle of sixteen provides the neural network that connects all other points in the performance, accuracy and predictions. The more the sampling the better the outcome. 
+AFA, principle of sixteen provides the neural network that connects all other points in the performance, accuracy and predictions (activation). The more the sampling the better the predicted outcomes. 
        
-When you look at the mNIST list you can see the modern ML able to accurately identify the input from the list. AFA is to words what modern ML is to mNIST today. AFA system does more than just identifying hand-written characters
+When you look at the mNIST list you can see the modern ML was able to accurately identify the input from the list. AFA is to words what modern ML is to mNIST today. AFA system does more than just identifying hand-written characters
 
 ## Can we modularize this system so that divination systems from other parts of the globe would be codified?
 
-Yes we can! Especially when we view the whole process before prediction as another ML which constitutes training complexes over the years to address human problems. They are trained by humans first, later by machines or other senses unbeknownst to man. Automatic training is involved here as in anything ML. In simple terms other methods could be engaged as a subset of artificial  intelligence. - I would rather say that AI is the application of ML. 
+Yes we can! Especially when we view the whole process before prediction as another ML model which constitutes training complexes over the years to address human problems. The machines where first trained by humans, later by machines and senses unknown to man. Automatic training is involved here as in anything ML. In simple terms other methods could be engaged as a subset of artificial  intelligence. - I would rather say that AI is the application of ML. 
 
-##Ths list so far:
+##The list of ancient predictive systems:
 1. I Ching
 2. Wax pouring in cold water
 3. Afa/Ifa
