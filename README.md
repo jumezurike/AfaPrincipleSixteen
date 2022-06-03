@@ -2,7 +2,7 @@
 <img src="https://github.com/jumezurike/AfaprincipleSixteen/blob/main/Afa-logot.png" width="100%" height=50% align=center>
 
 Afa Oracle: Introduction to the Principle of Sixteen (Ikpukpara)
-Important points you should make sure you don't miss out on from this post on your quest to unravel the enigma of the principle of sixteen.
+Important points you should make sure you don't miss out on from this post in your quest to unravel the enigma of the principle of sixteen.
 
 ## Who is an AFA Oracle?
 An AFA oracle is one who is initiated (a human representation) in the system of AFA which respects the duality of nature. This one has acquired certain skills by understanding the language of AFA and noting easily, its various combinations as a way to predict accurately. The high level language is not for the novice to understand. 
