@@ -28,7 +28,8 @@ It is all the three mentioned and every other thing in between. It is the way le
 
 - CULTURE
 
-Divinity (religion), philosophy, theology, science are found under ones culture. When a culture is deified it becomes a religion.
+Divinity (religion), philosophy, theology, science are found under one's culture. When a culture is deified it becomes a religion.The principle of sixteen has a cosmological traits to it. It permeates all aspects of our lives just like the computer. There is a parallel qeustion which I believe will very well answer all this. 
+Is the computing as we know it today a science, divinity or culture?
 
 ## What is the purpose of the principle of sixteen, and why is it a sacred practice?
 
