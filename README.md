@@ -60,7 +60,7 @@ Is the computing as we know it today a science, divinity or culture? We are open
 
 ## What is the purpose of the principle of sixteen, and why is it a sacred practice?
 
-Its purpose is to bring balance in human existence. It fills the gap between problems humans can solve and those they might never solve in one life time or life times. 
+Its purpose is to bring balance in human existence. Initially, Ikpukpara is a practice that incorporates connections between the unknown and known within a material medium by exptrapolating the esoteric to the world of being and existentiality. -The end goad is to use the supernatural intelligence, accuracy and performance to predict. It triggers the necessity to transfer this technique into the digital age, where equivalent solutions can be obtained via a computerisedcomputerized channel It fills the gap between problems humans can solve and those they might never solve in one life time or life times. 
 
 ## How does the principle of sixteen fit into computer science and technology?
 Mathematics is in the core of science and technology as well as Afa principles. The basis of AFA in the most rudimentary way forms a number system. The 0x(HEX) and 00 (BIN) are used in computers for communicating machine language as the computer interacts with humans. AFA strives for balance out of non-deterministic, deterministic, chaotic and somewhat ordred plane. The principles accuracy and performance promises easier ways for searching, combining and permuting words to predicting things in way that we have never seen before.
