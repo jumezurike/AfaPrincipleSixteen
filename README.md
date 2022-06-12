@@ -13,7 +13,34 @@ The Oracle is a problem solver when it comes to decision making. It is a blackbo
 This could be mathematically or visually expanded into perfect squares: The initiate will announce the output or  the result compiled by the oracle itself. This requires more than certain skills to understanding the language of AFA: Noting its various combinations with ease to predict things so subtle that the senses cannot perceive as a way of easily resolving human problems.
 
 ## History of the principle of sixteen? 
-This history cannot be easily placed in space time. The practice was used from time immemorial especially in the very bloom of human development to answer the question of sickness, to compile herbs for medicinal purposes, to recall genealogy.
+The history of Ikpukpara cannot be easily placed in space-time. The practice was used from time immemorial especially in the very bloom of human development to answer the question of sickness, to compile herbs for medicinal purposes, and to recall genealogy.
+
+According to history as it is recorded in Igbo land, a tribe in the eastern part of Nigeria, the ancient components of the AFA ensemble held by the Dibia AFA or doctor of AFA is instrumental. The people rely on the dibia AFA for an issue that has to do with the following:
+
+- Reincarnation information 
+
+- Seeking to know what the future holds and how to avoid potential dangers
+
+- To find out why one is in a particular unfavorable condition for long
+
+- To seek relationship advice and to find out if your partner is the right person for you to settle down with
+
+- To know the cause and solution to a chronic disease or illness
+
+Historically, Ikpukpara was basically used by Dibia AFA to help people in knowing what they cannot see with their physical eyes. 
+
+Furthermore, Ikpukpara is based on the principles of the sixteen in a configuration of mkpuru AFA (AFA seeds). They are the main aspect of ancient existence as they enter many aspects of our lives by interpretation of these special numbers.
+
+It is ordered in a set where the numerals are measures of count and quantity which start from zero, and one, two, four and progresses to the multiple of fours which is 16.
+
+It is believed that 16 marks the bloom of human development which is why the number is specifically embedded in the traditional sense of science and technology.
+
+In this sense of traditional science, there are 16 seeds or elements (nkpuru Afa) on a continuous based on basis of the 16 principles. The basis is designed for values to be accessed with the indices embedded in the Afa seed lexicography. 
+
+According to what serves as the fundamental component of these numbers, four market days make a week. There are 13 months in the  Igbo calendar making all 364 days in a year. In Igbo culture, three heads are better than one, and no two heads are better than one. This is true because, in the culture, it is believed that a three-legged cooker will set the foundation for cooking.
+
+It is imperative that we in the age of quantum computers must try to find the inflection point where the ancient crosses the path with the modern. 
+
 
 ## What are the Fundamentals of the Principle of sixteen?
 
