@@ -67,7 +67,7 @@ Mathematics is in the core of science and technology as well as Afa principles. 
 
 ## What is the relationship between the principle of Sixteen and machine learning and artificial intelligence? 
 
-The principle of sixteen clearly establishes that all that you speak of, all you will speak of and all you have spoken of are embedded in the spectrum of all in existence..
+The principle of sixteen clearly establishes that all that you speak of, all you will speak of and all you have spoken of are embedded in the spectrum of all in existence.
 
 Machines mimic human intelligence to perform specific tasks. - Artificial intelligence.
 
