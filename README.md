@@ -147,7 +147,7 @@ You will concatenate the open sets from right to left. You will have to get the 
 
 - 3 + 1 = aghali (5) ijite (8) => irado ive dika alo : Showing strong backing for something
 
-- 3 + 4 = aghali (5) aka (10) => iver na agba dika akpi : Something that stings like scorpion or sand ant
+- 3 + 4 = aghali (5) aka (10) => ive na agba dika akpi : Something that stings like scorpion or sand ant
 
 - 3 + 2 = aghali (5) obala (6) =>Ndi echichi : Titled people
 
