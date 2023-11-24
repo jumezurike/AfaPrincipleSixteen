@@ -63,3 +63,4 @@ for i in range(num_of_flips):
 print("\nThe result are:")
 print("T", t_counts)
 print("H", h_counts)
+#Will have to create a list of the recorded cast outcomes
