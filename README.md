@@ -164,6 +164,12 @@ The meaning of the casted string:
                                      
 The mechanism of the ancient oracle have not seen any make over as to the direct connection to modern science. This means certain practices will have to modify so that individuals will take their thoughts and essence of being to draw it following certain transcendental rules. The thought process (ATUMATU) of the consciousness master plan is of certain components: The vibrations of the mind. It follows in string theory this vibration determines the mass, force, and graviton of the matter. - This currently echoes in quantum mechanics as superposition which is practically the entanglement. 
 
+#Igbo Ogam Dictionary(Ntapia Okwu) -CVC
+I wanted to use this opportunity to include the work of Dr. Catherine Achalonu and Anaeto respectively
+
+a. http://www.faculty.ucr.edu/~legneref/igbo/Acholonu%20-%20Ogam%20Dictionary.pdf
+b. 
+
 # Framework
 
  <img src="https://github.com/jumezurike/AfaprincipleSixteen/blob/main/Afa-lexicon.png" width="100%" height=50% align=center>
