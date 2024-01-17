@@ -63,17 +63,19 @@ Is the computing as we know it today a science, divinity or culture? We are open
 Its purpose is to bring balance in human existence. Initially, Ikpukpara is a practice that incorporates connections between the unknown and known within a material medium by exptrapolating the esoteric to the world of being and existentiality. -The end goad is to use the supernatural intelligence, accuracy and performance to predict. It triggers the necessity to transfer this technique into the digital age, where equivalent solutions can be obtained via a computerisedcomputerized channel It fills the gap between problems humans can solve and those they might never solve in one life time or life times. 
 
 ## How does the principle of sixteen fit into computer science and technology?
-Mathematics is in the core of science and technology as well as Afa principles. The basis of AFA in the most rudimentary way forms a number system. The 0x(HEX) and 00 (BIN) are used in computers for communicating machine language as the computer interacts with humans. AFA strives for balance out of non-deterministic, deterministic, chaotic and somewhat ordred plane. The principles accuracy and performance promises easier ways for searching, combining and permuting words to predicting things in way that we have never seen before.
+Mathematics is in the core of science and technology as well as Afa principles. The basis of AFA in the most rudimentary way forms a number system. The 0x(HEX) and 00 (BIN) are used in computers for communicating machine language as the computer interacts with humans. AFA strives for balance out of non-deterministic, deterministic, chaotic and somewhat ordred plane. The principles accuracy and performance promises easier ways for searching, combining and permuting words to predicting things in ways that we have never seen before.
 
 ## What is the relationship between the principle of Sixteen and machine learning and artificial intelligence? 
 
-The principle of sixteen clearly establishes that all that you speak of, all you will speak of and all you have spoken of are embedded in the spectrum of all in existence.
+The principle of sixteen clearly establishes that all that you speak of, all you will speak of and all you have spoken of are embedded in the spectrum of all in existence. -
+
+It exists wherever energy traverses.
 
 Machines mimic human intelligence to perform specific tasks. - Artificial intelligence.
 
-The AFA seeds are initially trained without codes to perform tasks that will take humans a very long time to establish: This is simply machine learning. 
+The AFA seeds, although, initially trained without modern high level languages: They are highly coded to perform tasks that will take humans a very long time to establish: This is simply machine learning. 
 
-Machines automatically learn from data or information without further coding. From the accuracy and performance you can now predict to take action. One data set could be used to train many other machines. 
+Machines automatically learn from data or information without further programming (coding). From the accuracy and performance you can now predict to take action. One data set could be used to train many other machines. 
 
 AFA, principle of sixteen provides the neural network that connects all other points in the performance, accuracy and predictions (activation). The more the sampling the better the predicted outcomes. 
        
@@ -185,7 +187,21 @@ b.
                                       
   ![alt text](https://github.com/jumezurike/AfaPrincipleSixteen/blob/main/AFA-closed.png "Interpreting the circles and numbers")
                                 
-Oracle is simply a blackbox in the level of turing machine which will follow stringent instructions and input to finally present a conclusive output. The oracle will always arrive at a decision or conclusion. "I Ching": Is another divination system that could use this approach of number theory. We are certain that human lives could be enhanced by the decision owed to the wheels of the oracle. The uncertainties in the spectral lines of our existence could be reduced via predictive and resilient software. We are working on getting clearer and precise to excellent predictions. 
+Oracle is simply a blackbox in the level of turing machine which will follow stringent instructions and input to finally present a conclusive output. The oracle will always arrive at a decision or conclusion. "I Ching": Is another divination system that could use this approach of number theory. We are certain that human lives could be enhanced by the decision owed to the wheels of the oracle. The uncertainties in the spectral lines of our existence could be reduced via reasonable, predictive, and resilient software. We are working on getting clearer and precise to excellent predictions. 
 
 " Afa is an ancient African divination tool, cosmological treatise, and codification framework, that is thousands of years old, pre-dating all known computer science.
-Within Afa, we find the principles of binary expression (0 to 1), hexadecimal expression (0 to 15), base 20 & base 32 radices, matrix theory (4 by 4 grid), and wave theory (16 nodes with infinite interpretive permutations). " We are on a mission to create a machine that will unleash the power of AFA in our day-to-day lives. 
+Within Afa, we find the principles of binary expression (0 to 1), hexadecimal expression (0 to 15), base 20 & base 32 radices, matrix theory (4 by 4 grid), and wave theory (16 nodes with infinite interpretive permutations). " 
+
+We are on a mission to create a machine that will unleash the power of AFA in our day-to-day lives. We will put out the lexicon or dictionay of AFA word permutations in the neares future. 
+
+#AFA and the Renaissance of Linguistic Diversity: How can AFA improve ethnic languages?
+
+Most ethnic language of the Borno-Kwa structure are vowel-cosonant-vowel. e.g Aka or A.ka or another example Akwu or A.kwa - You usually have vowels before the root word and then another vowel after the consonant. 
+Majority of these languages stopped growing after the domination of the empires like Brittish empire till today. At the very bloom of the human development these culture were neglected and replaced with the colonial tongues. These languages were abruptly hindered from growing in a natural sense. In nature anything that fails to grow will certainly die. Until we see the connection between these languages and the fundamentals of AFA. It is imperative that we master the ancient wisdom to infuse the visible footprint or components of our being into the modern tools. With the understanding of AFA knowing that every word structure within this "Kwa" enthno group of language can define its own meaning by its own name. Let's take a look at this two words separately. We will use vowel-to-root suffix linking. We are going to dabble into two disctinct examples. 
+1. Lungs  = Ngu -> N-gu-> This the body organ that allows humans to breathe. What does it really mean "gu" the root word means take a hold depending on what comes after it could in a positive or negative direction. 
+2. Soothe = Guguo -> gu-gu-o -> This a possesive word used in igbo language to show that one is soothing a crying baby. "gu" appears twice. That could only mean to take a firm hold. 
+Question: How did they know that the lungs has something to do with crying? This is not an isolated case as you can see it all through the Kwa languages. The point is that once the inflection points of the language, the root meaning, accentuation, and the various phonetics are studied and noted as a part of NLP class of LLM. It will be very easy for AI to give meaning to the modern english words by affixing the local words; create new words within the context of the original ancient languages. These are still pure and divine in the context of AFA.
+
+#Conclusion
+In the pursuit of technological advancements, the renaissance of linguistic diversity holds the promise of a more inclusive and culturally aware future. The study of Borno-Kwa languages, intertwined with the principles of AFA (Predictive Oracle), offers a unique opportunity to bridge the gap between ancient wisdom and cutting-edge technologies. As we delve deeper into the linguistic roots, we unearth a treasure trove of knowledge waiting to be integrated into the ever-evolving realm of AI and NLP, ultimately enriching our understanding of language and culture.
+
