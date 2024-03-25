@@ -1,19 +1,19 @@
-# Afa Oracle: The Principle of Sixteen:
+# AFA Oracle: The Principle of Sixteen:
 <img src="https://github.com/jumezurike/AfaprincipleSixteen/blob/main/Afa-logot.png" width="100%" height=50% align=center>
 
-Afa Oracle: Introduction to the Principle of Sixteen (Ikpukpara)
-Important points you should make sure you don't miss out on from this post in your quest to unravel the enigma of the principle of sixteen.
+AFA Oracle: Introduction to the Principle of Sixteen (Ikpukpara)
+Important points you should make sure you don't miss out on from this post in your quest to unravel the enigma of the principle of sixteen. This is one of the earliest human artificial intelligence confered to certain group of people in the ancient times. The knowledge as a thriving technology follows rituals assembled as deep learning, machine learning, and implementation requiring a high language untilizaton which is unfamiliar to the locales although it might sound like the local languages. 
 
 ## Who is an AFA Oracle?
-An AFA oracle is one who is initiated (a human representation) in the system of AFA which respects the duality of nature. This one has acquired certain skills by understanding the language of AFA and noting easily, its various combinations as a way to predict accurately. The high level language is not for the novice to understand. 
+An AFA oracle is one who is initiated (a human representation) in the system of AFA which respects the duality of nature and ability to know beyond human capabilities. This one has acquired certain skills by understanding the language of AFA and noting easily, its various combinations as a way to predict accurately. The high level language is not for the novice (Ofeke) to understand. It could be taught to the "Ofeke" who might not be quite aligned. Through informamtion and belief it could become a benefit. 
 
 ## What is the AFA Oracle?
-The Oracle is a problem solver when it comes to decision making. It is a blackbox like turing machine that can process many instructions and give a single output as the decision or conclusion. 
+The Oracle is a problem solver when it comes to decision making. It is a blackbox like turing machine that can process many instructions and give a single output as the decision or conclusion. What is very interesting about it is that is uses a neural network represented as 4 x 4 matrix in which each cell holds a value accessed using the indices from 0-15. The matrix contains combination of words which in turn are expanded into spoken and written words. 
 
-This could be mathematically or visually expanded into perfect squares: The initiate will announce the output or  the result compiled by the oracle itself. This requires more than certain skills to understanding the language of AFA: Noting its various combinations with ease to predict things so subtle that the senses cannot perceive as a way of easily resolving human problems.
+This could be mathematically or visually expanded into perfect squares: In the past initiator will announce the output or the result compiled by the oracle itself. This requires more than certain skills to understanding the language of AFA: Noting its various combinations with ease to predict things so subtle that the senses cannot perceive as a way of easily resolving human problems rife with logic tha emotional intelligence. 
 
 ## History of the principle of sixteen? 
-The history of Ikpukpara cannot be easily placed in space-time. The practice was used from time immemorial especially in the very bloom of human development to answer the question of sickness, to compile herbs for medicinal purposes, and to recall genealogy.
+The history of Ikpukpara cannot be easily placed in space-time. The practice was used from time immemorial especially in the very bloom of human development to answer the question of sickness, to compile herbs for medicinal purposes, to unveil secrets, to interpret dreams, and to recall genealogy. This practice was predominant in the middle-belt, south west, and south east of the modern day Nigria. The Igbo were noted to use the four (4) strings and four (4) nodes per string computation. The Yoruba cousins used the two (2) strings and four (4) nodes per string computation.
 
 According to history as it is recorded in Igbo land, a tribe in the eastern part of Nigeria, the ancient components of the AFA ensemble held by the Dibia AFA or doctor of AFA is instrumental. The people rely on the dibia AFA for an issue that has to do with the following:
 
@@ -27,7 +27,7 @@ According to history as it is recorded in Igbo land, a tribe in the eastern part
 
 - To know the cause and solution to a chronic disease or illness
 
-Historically, Ikpukpara was basically used by Dibia AFA to help people in knowing what they cannot see with their physical eyes. 
+Historically, Ikpukpara was basically used by Dibia AFA to help people in knowing what they cannot see with their physical eyes. It was use to bring peace, strengthen the broken once with clarity, and lead those lost in their path. 
 
 Furthermore, Ikpukpara is based on the principles of the sixteen in a configuration of mkpuru AFA (AFA seeds). They are the main aspect of ancient existence as they enter many aspects of our lives by interpretation of these special numbers.
 
@@ -44,10 +44,10 @@ It is imperative that we in the age of quantum computers must try to find the in
 
 ## What are the Fundamentals of the Principle of sixteen?
 
-The fundamentals are the 16 different seeds(with bool open or close; truth or false) borne within a 4 by 4 matrix. This brings about a truth table of over 256 for each string of 4 nodes. This means as the cast layer is increase so will the performance and accuracy in predictions.
+The fundamentals are the 16 different seeds(with bool open or close; truth or false) borne within a 4 by 4 matrix. This brings about a truth table of over 256 for each string of 4 nodes. This means as the cast layer is increased so will the performance and accuracy in predictions. The components (text or characters) of written and spoken words forms permutation and combination of words which must be expanded for intelligence and benefit of others. This is a phenomemal similar in effect to modern AI practices. 
 
 Is Ikpukpara a science, divinity, or culture?
-It is all the three mentioned and every other thing in between. It is the way leading to the depth of understanding the world we live in. In ancient times AFA oracle, the machine or blackbox is what supercomputers or  quantum computers represent to the modern world. Today, we rely on computers for anything we want to analyse for insight. 
+It is all the three mentioned and every other thing in between. It is the way leading to the depth of understanding the world we live in. In ancient times AFA oracle, the machine or blackbox is what supercomputers or quantum computers represent to the modern world. The ability to glean intelligence from consciousness that are far removed from the cultre and prevailing reality sets it apart. Today, we rely on computers AI capabilities for anything we want to analyse for insight and some predictions. 
 
 - SCIENCE
 
@@ -55,25 +55,29 @@ It is all the three mentioned and every other thing in between. It is the way le
 
 - CULTURE
 
+- Econimics
+
+- Business
+
+- Technology
+
 Divinity (religion), philosophy, theology, science are found under one's culture. When a culture is deified it becomes a religion.The principle of sixteen has a cosmological traits to it. It permeates all aspects of our lives just like the computer. There is a parallel question which I believe will very well answer all this. 
 Is the computing as we know it today a science, divinity or culture? We are open to futher investigation and justification of AFA: A practice which not many are savvy to the logic of its process. 
 
 ## What is the purpose of the principle of sixteen, and why is it a sacred practice?
 
-Its purpose is to bring balance in human existence. Initially, Ikpukpara is a practice that incorporates connections between the unknown and known within a material medium by exptrapolating the esoteric to the world of being and existentiality. -The end goad is to use the supernatural intelligence, accuracy and performance to predict. It triggers the necessity to transfer this technique into the digital age, where equivalent solutions can be obtained via a computerisedcomputerized channel It fills the gap between problems humans can solve and those they might never solve in one life time or life times. 
+Its purpose is to bring balance in human existence. Initially, Ikpukpara is a practice that incorporates connections between the unknown and known within a material medium by exptrapolating the esoteric to the world of being and existentiality. -The end goal is to use the supernatural intelligence, accuracy and performance to predict. It triggers the necessity to transfer this technique into the digital age, where equivalent solutions can be obtained via a computerised channel It fills the gap between problems humans can solve and those they might never solve in one' life time or life times. 
 
 ## How does the principle of sixteen fit into computer science and technology?
-Mathematics is in the core of science and technology as well as Afa principles. The basis of AFA in the most rudimentary way forms a number system. The 0x(HEX) and 00 (BIN) are used in computers for communicating machine language as the computer interacts with humans. AFA strives for balance out of non-deterministic, deterministic, chaotic and somewhat ordred plane. The principles accuracy and performance promises easier ways for searching, combining and permuting words to predicting things in ways that we have never seen before.
+Mathematics is in the core of science and technology as well as Afa principles. The basis of AFA in the most rudimentary way forms a number system. The 0x(HEX) and 00 (BIN) are used in computers for communicating machine language as the computer interacts with humans. AFA strives for balance out of non-deterministic, deterministic, chaotic and some ordered planes. The principle's accuracy and performance promises easier ways for searching, prompting, combining and permuting words to predicting things in ways that we have never seen before.
 
-## What is the relationship between the principle of Sixteen and machine learning and artificial intelligence? 
+## What is the relationship between the principle of Sixteen, machine learning and artificial intelligence? 
 
-The principle of sixteen clearly establishes that all that you speak of, all you will speak of and all you have spoken of are embedded in the spectrum of all in existence. -
-
-It exists wherever energy traverses.
+The principle of sixteen clearly establishes that all that you speak of, all you will speak of and all you have spoken of are embedded in the spectrum of all in existence. -It exists wherever energy traverses.
 
 Machines mimic human intelligence to perform specific tasks. - Artificial intelligence.
 
-The AFA seeds, although, initially trained without modern high level languages: They are highly coded to perform tasks that will take humans a very long time to establish: This is simply machine learning. 
+The AFA seeds, although, initially trained without modern high level languages: They are highly coded to perform tasks that will take humans a very long time to establish: This is simply machine learning the combination of these words are always different bringing meaning so perculiar at each cast. 
 
 Machines automatically learn from data or information without further programming (coding). From the accuracy and performance you can now predict to take action. One data set could be used to train many other machines. 
 
@@ -81,7 +85,7 @@ AFA, principle of sixteen provides the neural network that connects all other po
        
 When you look at the mNIST list you can see the modern ML was able to accurately identify the input from the list. AFA is to words what modern ML is to mNIST today. AFA system does more than just identifying hand-written characters
 
-## Can we modularize this system so that divination systems from other parts of the globe would be codified?
+## Can we modularize this system so that patterns of divination systems from other parts of the globe would be codified?
 
 Yes we can! Especially when we view the whole process before prediction as another ML model which constitutes training complexes over the years to address human problems. The machines where first trained by humans, later by machines and senses unknown to man. Automatic training is involved here as in anything ML. In simple terms other methods could be engaged as a subset of artificial  intelligence. - I would rather say that AI is the application of ML. 
 
@@ -89,7 +93,6 @@ Yes we can! Especially when we view the whole process before prediction as anoth
 1. I Ching
 2. Wax pouring in cold water
 3. Afa/Ifa
-
 
 "Computer science mimics Afa Oracle - THE PRINCIPLES OF SIXTEEN.
 # The principle of 16 
@@ -203,5 +206,5 @@ Majority of these languages stopped growing after the domination of the empires 
 Question: How did they know that the lungs has something to do with crying? This is not an isolated case as you can see it all through the Kwa languages. The point is that once the inflection points of the language, the root meaning, accentuation, and the various phonetics are studied and noted as a part of NLP class of LLM. It will be very easy for AI to give meaning to the modern english words by affixing the local words; create new words within the context of the original ancient languages. These are still pure and divine in the context of AFA.
 
 #Conclusion
-In the pursuit of technological advancements, the renaissance of linguistic diversity holds the promise of a more inclusive and culturally aware future. The study of Borno-Kwa languages, intertwined with the principles of AFA (Predictive Oracle), offers a unique opportunity to bridge the gap between ancient wisdom and cutting-edge technologies. As we delve deeper into the linguistic roots, we unearth a treasure trove of knowledge waiting to be integrated into the ever-evolving realm of AI and NLP, ultimately enriching our understanding of language and culture.
+In the pursuit of technological advancements, the renaissance of linguistic diversity holds the promise of a more inclusive, responsible, and culturally aware future.- Although language is not the only way to communicate realities. The study of Congo-Kwa languages, intertwined with the principles of AFA (Predictive Oracle), offers a unique opportunity to bridge the gap between ancient wisdom and the current realities to build cutting-edge AI technologies that will impact humanity with accessibility to AI: This will leapfrog many dormant ecomomies of the world. As we delve deeper into the linguistic roots, we will unearth a treasure trove of knowledge waiting to be integrated into the ever-evolving realm of LLM (NLP) and AI, ultimately enriching our understanding of language and culture as the physical manifestation of the human operation system (agwu). The issue of existentiality could be carefully analyzed and could be seen to belong to the set of everything in the cosmos. The existence of aliens does not threaten the existence of humans. Does it? As we approach artificial general intelligence mankind will also become powerfully intelligent: Since it is still a handful of mankind and humans that built the AGI or the advanced stage of AI for the good of all. 
 
