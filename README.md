@@ -55,7 +55,7 @@ It is all the three mentioned and every other thing in between. It is the way le
 
 - CULTURE
 
-- Econimics
+- Economics
 
 - Business
 
