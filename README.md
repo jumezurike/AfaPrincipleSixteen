@@ -214,20 +214,20 @@ Z,z.
 ##Dictionary (combination of vocabularies)
 THE OGAM/IGBO DiCTiONARY OF VCV WORDS
 This dictionary will help in simple and short expressions, but for very long and complicated
-ones, a comprehensive Dictionary of igbo Language will be needed. www.c:arc:afric:ulture
-.org. email: Ikomgram@yahoo.c:om) would be source for Ogam translation. 
-
+ones, a comprehensive Dictionary of igbo Language will be needed. www.carcafriculture.org. email: Ikomgram@yahoo.c:om) would be source for Ogam translation. 
+(Subjective)
 Important Pronouns
 Words	Meaning
-m	I/me/my/mine; A ...m as in A ga m - I will; A na m -I am (present continuous tense)
-i	you
-o	he/she
-Q	impersonal pronoun/one (when the consonant is followed by open vowels e.g. a gaa, a lia);
-e	impersonal pronoun/one (when the consonant is followed by open vowels e, i, e, 0, e.g. e mee, e 100)
-anyi	we
-unu	you (pI)
-ha/wa/wo	they
-ndi	those who
+<il>
+1. m	I/me/my/mine; A ...m as in A ga m - I will; A na m -I am (present continuous tense)
+2. i	you
+3. o	he/she
+4. a	impersonal pronoun/one (when the consonant is followed by open vowels e.g. a gaa, a lia);
+5. e	impersonal pronoun/one (when the consonant is followed by open vowels e, i, e, 0, e.g. e mee, e 100)
+6. anyi	we
+7. unu	you (pI)
+8. ha/wa/wo	they
+9. ndi	those who
 
 (Objective)	
 m/mu	me,  to me
@@ -238,8 +238,6 @@ anyi	us/to us
 unu	you(pI) / to you
 ha	them/to them
 ndi mmadu 	people
-	
-	
 m	me, to me
 gi	you/to you
 ya	him/her/to him/her
@@ -610,7 +608,7 @@ Uzi	A tree with a large trunk
 Uzo	Way; road; door
 Uzu	Noise
 Akpu	Fufu; cassava starch meal
-
+</il>
 
 #AFA and the Renaissance of Linguistic Diversity: How can AFA improve ethnic languages?
 
