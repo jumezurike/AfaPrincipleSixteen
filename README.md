@@ -230,17 +230,17 @@ Words	Meaning
 9. ndi	those who
 
 (Objective)	
-m/mu	me,  to me
-gi	you/to you
-ya	him/her/to him/her
-mmadu	one/someone (impersonal)
-anyi	us/to us
-unu	you(pI) / to you
-ha	them/to them
-ndi mmadu 	people
-m	me, to me
-gi	you/to you
-ya	him/her/to him/her
+10. m/mu	me,  to me
+11. gi	you/to you
+12. ya	him/her/to him/her
+13. mmadụ	one/someone (impersonal)
+14. anyi	us/to us
+15. unu	you(pI) / to you
+16. ha	them/to them
+17. ndi mmadụ 	people
+18. m	me, to me
+19. gi	you/to you
+20. ya	him/her/to him/her
 mmadu	one/someone (impersonal)
 anyi	us/to us
 unu	you (pl)/to you
