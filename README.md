@@ -602,12 +602,13 @@ Izi	To show
 Izo	To save, to contest
 Izu	Week; to be complete
 Oze	That crashes
+
 795. Ọzọ	Cult of leaders and Princes; Initiate of the cult; again; gorilla
 796. Ozu	Dead body
 797. Uzi	A tree with a large trunk
 798. Uzo	Way; road; door
 799. Uzu	Noise
-800.Akpu Fufu; cassava starch meal
+800. Akpu Fufu; cassava starch meal
 </il>
 
 #AFA and the Renaissance of Linguistic Diversity: How can AFA improve ethnic languages?
