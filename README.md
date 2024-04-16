@@ -173,7 +173,7 @@ The mechanism of the ancient oracle have not seen any make over as to the direct
 I wanted to use this opportunity to include the work of Dr. Catherine Achalonu and Anaeto respectively
 
 a. http://www.faculty.ucr.edu/~legneref/igbo/Acholonu%20-%20Ogam%20Dictionary.pdf
-b. 
+b. ANEDO, ALEXANDER ALFRED ONUKWUBE 2004017001F “AFA” (DIVINATION): THE MOUTHPIECE OF THE UNSEEN
 
 # Framework
 
@@ -195,7 +195,422 @@ Oracle is simply a blackbox in the level of turing machine which will follow str
 " Afa is an ancient African divination tool, cosmological treatise, and codification framework, that is thousands of years old, pre-dating all known computer science or computation.
 Within Afa, we find the principles of binary expression (0 to 1), hexadecimal expression (0 to 15), base 20 & base 32 radices, matrix theory (4 by 4 grid), and wave theory (16 nodes with infinite interpretive permutations). " 
 
-We are on a mission to create a machine that will unleash the power of AFA in our day-to-day lives. We will put out the lexicon or dictionay of AFA word permutations in the nearest future. -This will be the beginning of the foundation model (text and textlike characters).
+#The Goal
+
+We would create an AI (NLP) from special LLM with machine learning: Machines will be trained to learn the algorithms which unravels meaning in Igbo or Youruba or Hausa vocabulary (The alphabets or components of the spokent language). Note a syllabrary could be a better approach check out this extraordinay work https://ndebe.org. This LLM for low resource languages could allow the users to leapfrog that would unleash the ingenuity and enhance creativity. More so, tapping into AFA in our day-to-day lives will inspire us and advance our worldview to economic independence. We will put out the lexicon or dictionay of AFA word permutations in the nearest future. -This will be the beginning of the foundation model (text and textlike characters). The common vocabulary covering the language of interest (Igbo):
+
+A,a B,b CH,ch D,d E,e F,f G,g.
+
+GB,gb GH,gh GW,gw H,h I,i ị,ị J,j.
+
+K,k KP,kp KW,kw L,l M,m N,n Ṅ,ṅ
+
+NW,nw NY,ny O,o Ọ,ọ P,p R,r S,s.
+
+SH,sh T,t U,u Ụ,ụ V,v W,w Y,y.
+
+Z,z.
+
+##Dictionary (combination of vocabularies)
+THE OGAM/IGBO DiCTiONARY OF VCV WORDS
+This dictionary will help in simple and short expressions, but for very long and complicated
+ones, a comprehensive Dictionary of igbo Language will be needed. www.c:arc:afric:ulture
+.org. email: Ikomgram@yahoo.c:om) would be source for Ogam translation. 
+
+Important Pronouns
+Words	Meaning
+m	I/me/my/mine; A ...m as in A ga m - I will; A na m -I am (present continuous tense)
+i	you
+o	he/she
+Q	impersonal pronoun/one (when the consonant is followed by open vowels e.g. a gaa, a lia);
+e	impersonal pronoun/one (when the consonant is followed by open vowels e, i, e, 0, e.g. e mee, e 100)
+anyi	we
+unu	you (pI)
+ha/wa/wo	they
+ndi	those who
+
+(Objective)	
+m/mu	me,  to me
+gi	you/to you
+ya	him/her/to him/her
+mmadu	one/someone (impersonal)
+anyi	us/to us
+unu	you(pI) / to you
+ha	them/to them
+ndi mmadu 	people
+	
+	
+m	me, to me
+gi	you/to you
+ya	him/her/to him/her
+mmadu	one/someone (impersonal)
+anyi	us/to us
+unu	you (pl)/to you
+ha	them/to them
+ndi mmadu	people (impersonal, pl)
+A ba a	When one enters ... (transitive)
+Aba	Not to enter into... ; also name of a town in Igbo-Iand
+A bia	When one comes ...; name of aState in Igbo land (0 bia - when he comes)
+Abu	Song
+Ebe	Where; Oracle; flying
+Ebi	Dwelling
+Ebo	Mound; when one is accused of.
+Ebu	Hornet; getting fat
+Iba	Fever; the process of entering
+Ibe	PatrHineage; paternal relatives
+Ibi	Swelling ofthe scrotum
+Ibo	(Another spelling for 'Igbo'), accusing falsely, placing (a load) on ...
+Ibu	Fat; the process of carrying
+Oba	Barn
+Obe	Cross
+Obi	Heart; main hall of a man's homestead
+Obo	Scabbard
+Obu	Ibis bird
+Uba	Riches
+Ube	Native pear; cry; lance
+Ubi	Farm land
+Ubo	Scabbard
+Ubu	Scramble
+Acha	Name of a grain grown in Northern Nigeria associated with famine
+A cho (o)	When one finds/looks fo... r; (na- acho - is looking for)
+Achi	A seed for soup-making; name of a town
+Achu	Pursuing
+Eehe	Trimming a tree by cutting; thinking , meditating
+Echi	Tomorrow (fchlchi-Initation; fehl echiehi- taking an initiation)
+Echu	Become bad; collecting (water)
+Icha	Yellowing; passing (some on) by
+Iehe	The Process of guarding; thinking (When a verb is preceded by the letter i, it implies a process or the second person pronoun.)
+Iehi	Taking an initiation or coronation
+Icho	Looking for (a missing item)
+Ichu	Scaring away (something or someone)
+Oche	Seat/chair
+Ochi	Rectum
+Ocho	He who seeks
+Ochu	He who seeks
+Uche	Thought; mind
+Uchu	Curse; attention
+Ada	Daughter, fall, infant vomit
+Adi	Not being (in a state of... )
+Ado	Protecting; (ado 0 - when one plants)
+Adu	Seed yam
+Ede	Cocoyam; writing
+Edi	Hyena
+Edo	Yellow; raining
+Edu	Guiding (0 na edu - he is guiding; i na edu -you are guiding)
+Ida	Falling
+Ide	Writing
+Idi	Being in a state of...
+Ido	Keeping; contesting for
+Idu	Leading; guiding
+Oda	He who falls
+Ode	He who writes
+Odi	It is (0 di mma -It is good)
+Odo	He who insists on having
+Odu	Tail; elephant tusk as a symbol of initiation
+Uda	A kind of spice; loud sound
+Ude	Loud sound; fame
+Udi	Name of a place; type
+Udo	Peace; Rope
+Udu	Calabash pot; wine pot/jar
+Afa	Name; oracle; (alaa - when one squeezes ... )
+Afe	Dress
+A fi (ko)	When ... is crumbled
+Afo	Belly/ Stomach; year - Orlu dialect
+A fu	When one sees {transitive} ...
+Efe	Flying; dress; spare time
+Efi	Cow (migrant Igbo dialect)
+Efo	Dawning; Chi elo - The day is dawning.
+Efu	Baseless; getting lost
+Ifa	Squeezing
+lfe	Flying; Worshipping
+lfi	Maka ifi - Due to; because of
+Ifo	Folktale; pulling out (by the root)
+Ifu	Getting lost
+Ofa	(Ofaa) If he squeezes
+Ofe	Native soup; across
+Ofo	If it remains; Piece of wood used to invoke divine power
+Ofu	One
+Ufe	Flight; swindle; lies
+Ufo	Inner room of a titled man
+Ufu	Fox
+Aga	Childless, Will it be ... ? {e.g Aga as; na ...? - Will it be said that...?
+Ago	Defence
+Agu	Lion, a powerful person; Aguu/Aguru - hunger
+Ege	Listening
+Ego	Money; a girl's common name
+Egu	A kind of edible caterpillar
+Iga	Going; snatch (from)
+Ige	Listening
+Igo	Buying; offering to, propitiating (a god)
+Igu	Counting; palm trond
+Oga	It will, he will, she will
+Oge	Time; when
+Ogo	In-law; kindness; gracious
+Ogu	Fight; battle; stick; Divine Justice
+Uga	Name of place; passing of time
+Uge	Dregs of the palm-wine bottle (a nourishing drink)
+Ugo	Falcon; eagle
+Ugu	A legume for cooking native soup
+Aha	Name (ahaa - to let go of)
+Ahi	Squeezing
+Aho	Choosing; year - Orsu dialect; a kind of dish
+Ahu	Body; one sees; shaking
+Ehe	Underbelly; (ehee/ehepu - removing excrement)
+Ehi	Cow in the autochthon dialect
+Ehuo	Bowing in reverence (Ehuo-ro - bowing in reverence tor)
+Ehu	Bending down
+Iha/Ira	To spare (a culprit, something cut in a net)
+Ihe/Ife	A thing; light; to pull in ( the stomach through breathing in)
+Ihi/Ifi	Cause (maka ihi/ifl- because of)
+Iho/Ito	Folktale
+Ihu/Iru	Face
+Oha	People; masses
+Ohe	Ohere (space)
+Ohu	Slave; twenty
+Uha	A legume for cooking native soup
+Aja	Sand; offering made to a god
+Aji	Hair; a kind of Big tree
+Ajo	Evil (adjective)
+A ju	When one refuses (transitive) ...
+Eje	Going
+Eji	Holding on to
+Eju	Snail
+Ija	To Hide
+Ije	To go; walk; gait
+Iji	To hold; you are holding
+Ijo	To be ugly
+Iju	To be plentiful; you are full of
+Oja	Flute
+Oje	He who goes ...
+Oji	Kola-nut; Staff of spiritual authority; black; dark; tree with large trunk
+Ojoo	Ugly
+Oju	Broken piece of earthenware pot
+Uja	Dog's bark; shouting
+Ujo	Fear
+Uju	Bounty; plentiful
+Aka	Hand; A specie of snakes
+Aki	OU palm nut/nut
+Ako	Wisdom; Prudence
+Aku	Termites; Cocoa nut; Oil palm nut; (akuo - when one plants ...)
+Eke	Python; a name of one of the four Igbo market days; creation
+Eko	Swelling
+Eku	Wooden spoon; spooning, shovelling
+Ika	To be greater than; to speak forth
+Ike	Strength; to divide; to tie
+Iko	To tell; cup
+Iku	To carry (a baby)
+Oka	Maize; carver
+Oke	Rat; mouse; share
+Okiri	Ram
+Oko	Skin scratching
+Oku	Fire; hot
+Uka	Word; religion; church
+Uke	Destiny
+Uko	Dearth
+Ala	Earth; ground
+Ali	Ground
+Alo	Placenta; Priest King's sacred Staff
+Alu	Abomination; Fighting
+Eie	Deer; God - EI; Consummate Shaman
+Elo	Counsel; swallowing
+Elu	High; heights
+Ila	To barb (hair); to go home
+Ile	To look at, to sell (also ire)
+Ili/Ini	To bury
+Ilo/Ino	To swallow
+Ilu	Bitter
+Ola	Ring
+Oie	How many
+Olin	Burying
+Olu	Neck; voice
+Ula	Escape, disappearance
+Ule	Examination
+Uli	Name of a place; tough rope clinging to a thing
+Ama	Compound; Original Divine Mother; open square.
+Ami	Slippery
+A muo	When birth is given ... ; When one learns ...
+Amu	Male genitals;
+Eme	Happening
+Emi	Deep (imi emi); omimi - mystery
+Emu	Gossip
+Ima	To know (i ma - you know; i ma mma - to be beautiful, good)
+Ime	To do (N'/me - inside of)
+Imi	Nose; nasal fluid
+Imo	Name of the longest river in Igbo land
+Imu	To give birth to (omumu - many children from a single woman)
+Oma	Mother Goddess of the Igbo
+Ome	Tender shoot
+Omi	Well; cistern
+Omu	Tender shoot of a palm tree
+Omu-mu	Genealogy
+Ume	A caste; breath (iku ume -
+Umu	Children of
+Ana	Earth; ground
+Ani	Earth; ground
+Ano	Four
+Anu	Meat; that cannot be heard
+Ene	Looking at
+Eni	Burying
+Eno	Swallowing
+Enu	High; heights (migrant Igbo dialect)
+Ina	To ask for; to take from (ila/Ina - to go home)
+Ine/Ile	To look at
+Ini	To bury
+Ino	The stay; to return
+Inu	To hear; to marry (ilu); bitter
+Ona	A kind of native potato/yam
+One	How many
+Onini	Burying
+Ono-na	He who is in ...
+Onu	Mouth
+Una	Going home
+Uno	House
+Unu	You {plural}
+Anya	Eye
+Anyi	We; heavy
+Anyu	Melon pod
+Enyi	Friend
+Enye	When one is given
+Enyo	Peeping
+Inya	To drive
+I nye	If you give
+Inyo	To peep
+Inyu	To excrete
+Onya	One who drives
+Onye	One/a person who ...
+Onyu	One who excretes
+Unyi	Dirt
+Apa	Being lifted
+Api	Being sharpened
+Apu	Silk cotton Tree (Igbo Ukwu dialect); being dragged along
+Epu	Germinating
+Ipa/ibu	To carry
+Ipe	To break (firewood)
+Ipi	To sharpen (a knife); to squeeze out;
+Ipu	To germinate; to leave/step out (a room, a place)
+Opa	Round; moon-shaped
+Opi	Flute
+Akpa	Bag
+Akpi	Bed Bug
+Akpo	Calling
+Akpu	Fufu; cassava starch meal
+Ekpe	A secret cult (iri ekpe - to inherit a dead person's property)
+Ekpu	Wearing (a hat)
+Ikpa	Waste land; to keep (domestic animals)
+Ikpe	Case (in court)
+Ikpo	To call; to call; to dry up
+Ikpu	Vagina
+Okpi	Heavy stick
+Okpo	Cat fish
+Okpu	Hat; cap; eternal
+Ukpa	Longish basket; a native nut, highly priced
+Ukpo	A native spice for soup-making, highly priced
+Akwa	Cloth; Wrapper; egg; sewing
+Akwo	Crushing, with stone or with blender
+Akwu	Silk Cotton Tree (Orlu dialect)
+Ekwe	Drum (ekwe ekwe --Stubborn)
+Ekwo	Being noisy
+Ekwu	Talking
+Ikwa	To sew; to push; to give burial rites (to)
+Ikwe	To agree; to sing a song -- ikwe ukwe; mortar for pounding
+Ikwo	To crush in a mortar/grind on stone
+Ikwu	To say (ikwu udo/ima udo -- to hang oneself on a rope/commit suicide)
+Okwa	Bush fowl; wooden saucer
+Okwe	Table games that use seeds or nuts; rubber tree/seeds
+Okwo	He/she who carries on his back ...
+Okwu	Word; talk; speech
+Ukwa	A native bean, delicacy, highly priced
+Ukwe	Song
+Ukwo	Popularity, fame, widespread noise
+Ukwu	Leg; waist; bundle
+Ara	Madness
+Ari	Climbing (arir; - Suffering)
+Aro	Year (Anambra dialect)
+Aru	Abomination; body - Anambra dialect
+Ere	Selling; rotting
+Eri	God-man (thought to be the Egyptian god of letters Thoth)
+Eroo	Mushroom; if ... pu lied out
+Eru	Gathering (of a storm)
+Ira	To like; to have sexual intercourse with a woman
+Ire	Tongue; to sell; to rot; to pronounce as from a god
+Ire	To choose (iho); to pull by the roots (ifo)
+Iru	Face; gathering of a storm
+Ora	Folk; people; a legume
+Ore	A place name
+Ori	He/she who eats; eczema
+Oro	He/she who plots
+Oru	Work; slave; across the river inhabitants
+Ura	Sleep; overnight food
+Ure	Rot; making faces
+Uri	Body painting/ tattoo; the paint
+Uro	Clay
+Asa	Eel; very beautiful woman
+Asi	Lies; asi na ... - had it been that. ..
+Aso	Holy
+Asu	Shrivelling; pounding
+Uru	Gain, cheat
+Ese	Quarrelling
+Esi	Smelling
+Eso	Following
+Esu	Millipede
+Isa	To wash; to pass by
+Ise	Five; to quarrel; to pull
+Isi	Head; leader (isii - six); isisi (topmost head)
+Iso	To follow (i so - you follow)
+Isu	A clan name of the autochthons
+Osa	Squirrel; Light color
+Ose	Pepper
+Oso	Running
+Osu	Belonging to the Osu caste
+Usa	Gluttony
+Uso	Sweetness
+Usu	Bat
+Ata	Chewing; drying up (as in 'water is drying' - miri na-ata)
+Ato	Three; (ato uto - sweet)
+Atu	Divine Word; Sore, bad wound (atumatu"": idea)
+Ete	Palm tree climbing rope
+Eti	Crushing (palm nut with stone)
+Eto	Growing (0 na eto - He is growing; i na eto - you are growing)
+Etu	How to; method
+Ita	To chew; to blame
+Ite	Pot; pottery; earthenware; to rub
+Iti	To beat; a fool
+Ito	To be older than; to praise
+Itu	To point (itu aka - to point the hand)
+eta	He/she who eats
+ete	He who paints/rubs, etc)
+eto	A native dish
+etu	Vagina
+Uta	Bow; blame
+Ute	Mat
+Uto	Sweetness
+Utu	Penis
+Ava/Afa	Name; oracle (ava - the name of goddess)
+Avu	Song
+Avi	Befriending
+EVi	Wearing (a dress); not to resemble
+IVi	To resemble
+OVi	Friend; sickness
+Ovo	Musical Instrument
+Aza	One answers (to a call)
+Azo	Struggling for
+Azu	Fish, buying
+Eze	King; tooth, teeth
+Ezi	Outside; good
+Ezu	Stealing; being complete
+Iza	To sweep; to sieve
+Ize	To avoid; to crash down (as in land slide)
+Izi	To show
+Izo	To save, to contest
+Izu	Week; to be complete
+Oze	That crashes
+Ozo	Cult of leaders and Princes; Initiate of the cult; again; gorilla
+Ozu	Dead body
+Uzi	A tree with a large trunk
+Uzo	Way; road; door
+Uzu	Noise
+Akpu	Fufu; cassava starch meal
+
 
 #AFA and the Renaissance of Linguistic Diversity: How can AFA improve ethnic languages?
 
