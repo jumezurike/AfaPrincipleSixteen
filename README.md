@@ -214,7 +214,7 @@ Z,z.
 ##Dictionary (combination of vocabularies)
 THE OGAM/IGBO DiCTiONARY OF VCV WORDS
 This dictionary will help in simple and short expressions, but for very long and complicated
-ones, a comprehensive Dictionary of igbo Language will be needed. www.carcafriculture.org. email: Ikomgram@yahoo.c:om) would be source for Ogam translation. 
+ones, a comprehensive Dictionary of igbo Language will be needed. www.carcafriculture.org. email: Ikomgram@yahoo.com) would be source for Ogam translation. 
 (Subjective)
 Important Pronouns
 Words	Meaning
