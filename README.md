@@ -115,7 +115,7 @@ What you see is rascally encoded so that a lay man will never understand its dua
 ### Take for example 4 bit-wise representation of the combination from the outcome:
 
 12 -->> 1100 is eqaully -4 in binary          + 16 
--->> 
+<br>-->> <br>
 11 --> 1011 is equally -5 in binary           + 16
 
 # Indices and Values
